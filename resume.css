@@ -22,6 +22,10 @@ body#resume{
 	margin-bottom: 3.5px;
 }
 
+.exp-header{
+	display: block;
+}
+
 #pro-summary{
   float: left;
   margin-bottom: 39px;
@@ -33,7 +37,7 @@ body#resume{
 	margin-bottom: 0px;
 }
 
-.project-info{
+.project-info, .edu-info{
 	margin-top: 0px;
 	margin-bottom: 19.5px;
 }
@@ -44,4 +48,12 @@ body#resume{
 
 .section-header{
   margin-bottom: 0px;
+}
+
+.section{
+	margin-bottom: 39px;
+}
+
+#last-section{
+	margin-bottom: 80px !important;
 }

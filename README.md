@@ -2,6 +2,10 @@ My Freesite
 ------------
 This is a small, static website that I created to test out [Freenet](https://freenetproject.org/). It includes my resume in HTML format.
 
+My FreeSite is located at: USK@-UKIsA~4wzwSUSMlkp7teTmJ4Kl8jBxhe9E7YQpOE~o,ZASCKzZC5TVpD7~F7Pu5if2xJ8pe6Tf9~8aYNL5m4BI,AQACAAE/rkelley/4
+
+Keep in mind, you **must have Freenet installed** to access the site using this address.
+
 Why?
 ----
 

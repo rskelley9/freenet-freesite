@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "Input Mono";
+    src: url(assets/fonts/InputMono-Regular.ttf) format("truetype");
+}
+
+body#resume{
+	font-family: "Input Mono";
+	margin: 5%;
+}
+
+#resume-contact-info{
+	 color: rgb(0,0,252);
+	 text-align: center;
+	 font-weight: bold;
+}
+
+.underline{
+	margin-bottom: 19.5px;
+}
+
+.less-padding-underline{
+	margin-bottom: 3.5px;
+}
+
+#pro-summary{
+  float: left;
+  margin-bottom: 39px;
+}
+
+.skills{
+	float: left;
+	margin-left: 10%;
+	margin-bottom: 0px;
+}
+
+.project-info{
+	margin-top: 0px;
+	margin-bottom: 19.5px;
+}
+
+#no-margin-bottom{
+	margin-bottom: 0px !important;
+}
+
+.section-header{
+  margin-bottom: 0px;
+}
